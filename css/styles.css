@@ -3,11 +3,14 @@
 }
 
 .about{
-
+  font-style: italic;
+  font-size: large;
 }
 
-.cardbody1 {
+.card-body1 {
   background-color: skyblue;
+  border-color: black;
+  border: 2px solid black;
 }
 
 body {
@@ -15,6 +18,11 @@ body {
 }
 
 .jumbotron {
-  float: left;
   background-color: skyblue;
+  border: black;
+  border: 2px solid black;
+  margin-top: 20px;
+}
+.me {
+  font-size: small;
 }
