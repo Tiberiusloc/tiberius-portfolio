@@ -71,4 +71,6 @@ body {
 .card-body3 {
   background-color: black;
   border: 2px solid rgb(24, 23, 23);
+  margin-bottom: 1.5rem;
 }
+
