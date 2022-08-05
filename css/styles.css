@@ -1,3 +1,20 @@
 .tiberius {
-  float: right;
+
+}
+
+.about{
+
+}
+
+.cardbody1 {
+  background-color: skyblue;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+.jumbotron {
+  float: left;
+  background-color: skyblue;
 }
