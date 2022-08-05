@@ -7,10 +7,13 @@
   font-size: large;
 }
 
-.card-body1 {
+.card-body2 {
   background-color: skyblue;
   border-color: black;
   border: 2px solid black;
+  width: 49%;
+  float: right;
+  padding: 10px;
 
 
 
@@ -21,15 +24,18 @@ body {
 }
 
 .card-body {
-  background-color: red;
+  background-color: plum;
   border: black;
   border: 2px solid black;
+  width: 49%;
+  float: left;
+  padding: 1rem;
 
 
 }
 .me {
 
-  font-size: small;
+  font-size: medium;
 }
 
 
@@ -37,7 +43,4 @@ body {
   font-size: large;
   font-style: italic;
   color: yellow;
-}
-.column2 {
-  float: right;
 }
