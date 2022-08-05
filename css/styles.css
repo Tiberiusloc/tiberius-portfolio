@@ -2,7 +2,6 @@
   font-style: italic;
   font-size: large;
 }
-
 .card-body2 {
   background-color: skyblue;
   border-color: black;
@@ -106,8 +105,10 @@ body {
   color: black;
 }
 
- #borderimg {
-  border: 10px solid transparent;
-  padding 15px;
-  border-image: url(img/border1.webp) 30 round;
- }
+#borderimg {
+  border: 10px solid black;
+  padding: 5px;
+  border-image: url(img/border.png) 33% repeat;
+  border-style: solid;
+}
+
