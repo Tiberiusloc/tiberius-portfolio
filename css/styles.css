@@ -62,6 +62,11 @@ body {
     width: 150%;
   }
 }
+.travelmove {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
 .card-body3 {
   background-color: rgb(131, 185, 106);
   border: 2px solid rgb(24, 23, 23);
@@ -86,9 +91,11 @@ body {
 }
 
 .card-body4 {
+  position: absolute;
   background-color: black;
   border: 2px solid black;
-  left: 10%;
   width: 20%;
-  bottom: 400px;
+  bottom: 5%;
+  height: 400px;
+  left: 60%;
 }
