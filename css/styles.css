@@ -86,10 +86,9 @@ body {
 }
 
 .card-body4 {
-  position: fixed;
   background-color: black;
   border: 2px solid black;
-  left: 61%;
+  left: 10%;
+  width: 20%;
   bottom: 400px;
-  width: 25%;
 }
