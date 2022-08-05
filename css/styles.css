@@ -12,6 +12,8 @@
   border-color: black;
   border: 2px solid black;
 
+
+
 }
 
 body {
@@ -19,10 +21,11 @@ body {
 }
 
 .card-body {
-  background-color: skyblue;
+  background-color: red;
   border: black;
   border: 2px solid black;
-  margin-top: 20px;
+
+
 }
 .me {
 
@@ -35,6 +38,6 @@ body {
   font-style: italic;
   color: yellow;
 }
-.float-right {
+.column2 {
   float: right;
 }
