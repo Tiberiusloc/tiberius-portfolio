@@ -11,25 +11,30 @@
   background-color: skyblue;
   border-color: black;
   border: 2px solid black;
-  margin-bottom: 10%;
+
 }
 
 body {
   background-color: darkgrey;
 }
 
-.jumbotron {
+.card-body {
   background-color: skyblue;
   border: black;
   border: 2px solid black;
   margin-top: 20px;
 }
 .me {
+
   font-size: small;
 }
+
 
 .highlight {
   font-size: large;
   font-style: italic;
   color: yellow;
+}
+.float-right {
+  float: right;
 }
