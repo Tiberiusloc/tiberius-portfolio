@@ -26,7 +26,6 @@ body {
 
 .card-body {
   background-color: plum;
-  border: black;
   border: 2px solid black;
   width: 40%;
   float: left;
@@ -47,10 +46,11 @@ body {
   color: yellow;
 }
 
-p {
+
+
+.move {
   animation-duration: 3s;
   animation-name: slidein;
-  animation-iteration-count: infinite;
 }
 @keyframes slidein {
   from {
@@ -61,4 +61,14 @@ p {
     margin-left: 0%;
     width: 100%;
   }
+  75% {
+    font-size: 200%;
+    margin-left: 25%;
+    width: 150%;
+  }
+}
+
+.card-body3 {
+  background-color: black;
+  border: 2px solid rgb(24, 23, 23);
 }
