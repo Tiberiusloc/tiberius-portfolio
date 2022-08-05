@@ -11,6 +11,7 @@
   background-color: skyblue;
   border-color: black;
   border: 2px solid black;
+  margin-bottom: 10%;
 }
 
 body {
@@ -25,4 +26,10 @@ body {
 }
 .me {
   font-size: small;
+}
+
+.highlight {
+  font-size: large;
+  font-style: italic;
+  color: yellow;
 }
