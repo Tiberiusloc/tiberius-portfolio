@@ -93,9 +93,13 @@ body {
 .card-body4 {
   position: absolute;
   background-color: black;
-  border: 2px solid black;
-  width: 20%;
+  border: 2px solid white;
+  width: 19%;
   bottom: 5%;
   height: 400px;
   left: 60%;
+}
+
+.card-text4 {
+  color: white;
 }
