@@ -7,6 +7,11 @@
   font-size: large;
 }
 
+.row2 {
+  float: right;
+  text-align: center;
+}
+
 .card-body2 {
   background-color: skyblue;
   border-color: black;
@@ -72,5 +77,6 @@ body {
   background-color: black;
   border: 2px solid rgb(24, 23, 23);
   margin-bottom: 1.5rem;
+  margin-top: 1rem;
 }
 
